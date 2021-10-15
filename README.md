@@ -3,3 +3,4 @@
 - multiple components
 - emit
 - click events modifiers
+- slots
