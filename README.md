@@ -2,3 +2,4 @@
 - refs
 - multiple components
 - emit
+- click events modifiers
