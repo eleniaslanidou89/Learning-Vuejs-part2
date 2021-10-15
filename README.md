@@ -4,3 +4,4 @@
 - emit
 - click events modifiers
 - slots
+- v-slot
